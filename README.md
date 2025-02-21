@@ -1,7 +1,5 @@
 
-This project analyzes mobile device usage patterns and user behavior using a dataset with 700 samples. Key metrics include app usage time, screen-on time, battery drain, and data consumption. The aim is to classify user behavior into five categories and predict battery drain using machine learning a
-
-
+This project, Predicting User Behavior & Battery Drain, analyzes mobile device usage patterns using a dataset of 700 samples. It examines key metrics such as app usage time, screen-on time, battery drain, and data consumption to classify user behavior into five categories. Machine learning models are employed to predict battery drain based on usage patterns. The project aims to provide insights into user habits, optimize battery performance, and enhance mobile experience. Various classification and regression techniques are explored to improve prediction accuracy
 
 
 
